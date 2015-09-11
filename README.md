@@ -24,7 +24,7 @@ You can build a static version of this site using the `freeze.py` script.  You
 need to modify that to pick up any additional pages that you add.
 
 ```bash
-ptyhon freeze.py
+python freeze.py
 ```
 
 That drops a pre-built version of the site into the `./public/` directory.  Note
